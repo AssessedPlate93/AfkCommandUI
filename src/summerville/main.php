@@ -38,7 +38,7 @@ class main extends PluginBase{
             	case 1:
                     if($outcome === true){
                     	foreach($this->getServer()->getOnlinePlayers() as $p){
-                    	    $p->sendMessage("§a ". $player->getName() ." is afk!");
+                    	    $p->sendMessage("§a ". $player->getName() ." is now afk!");
                         }
                     }
                     if($outcome === null){
