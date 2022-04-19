@@ -1,6 +1,6 @@
 name: AfkCommandUI
 author: assessed
-api: 3.0.0
+api: 4.0.0
 main: summerville\main
 version: 1.0.0
 description: Afk Plugin made By AssessedPlate93
